@@ -9,8 +9,8 @@
 
 /*----------------- Include -------------------*/
 #include <avr/io.h>
-#include "SPI.h"
 #include "Btn.h"
+#include "LED.h"
 
 /*-------------- Main function ----------------*/
 int main(void)
